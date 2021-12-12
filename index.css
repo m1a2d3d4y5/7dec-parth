@@ -1,0 +1,14 @@
+h2{
+    display: block;
+    border-radius: 5px;
+}
+body{
+    background-color: rgb(145, 245, 166);
+}
+input{
+    border-radius: 10px;
+    display: block;
+}
+button{
+    border-radius: 10px;
+}
